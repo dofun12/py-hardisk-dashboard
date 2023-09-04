@@ -1,0 +1,83 @@
+Disk /dev/loop0: 55.66 MiB, 58368000 bytes, 114000 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop1: 55.66 MiB, 58363904 bytes, 113992 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop2: 63.45 MiB, 66531328 bytes, 129944 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop3: 63.46 MiB, 66547712 bytes, 129976 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop4: 91.81 MiB, 96272384 bytes, 188032 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop5: 91.83 MiB, 96292864 bytes, 188072 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop6: 53.26 MiB, 55844864 bytes, 109072 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/loop7: 40.84 MiB, 42827776 bytes, 83648 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+Disk /dev/sda: 223.57 GiB, 240057409536 bytes, 468862128 sectors
+Disk model: KINGSTON SA400S3
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: gpt
+Disk identifier: 5BBB7707-F699-4694-AF5F-781C84E41C6A
+
+Device     Start       End   Sectors   Size Type
+/dev/sda1   2048      4095      2048     1M BIOS boot
+/dev/sda2   4096 468858879 468854784 223.6G Linux filesystem
+
+
+Disk /dev/sdc: 1.82 TiB, 2000398934016 bytes, 3907029168 sectors
+Disk model: ST2000DM008-2FR1
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disklabel type: gpt
+Disk identifier: 4328404D-B0EB-4FC0-8C6E-2E40F0578820
+
+Device     Start        End    Sectors  Size Type
+/dev/sdc1   2048 3907028991 3907026944  1.8T Linux filesystem
+
+
+Disk /dev/sdb: 3.64 TiB, 4000787030016 bytes, 7814037168 sectors
+Disk model: ST4000DM004-2U91
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disklabel type: gpt
+Disk identifier: 3F6FC017-B35A-5446-849C-3CA276CE4F61
+
+Device     Start        End    Sectors  Size Type
+/dev/sdb1   2048 7814037134 7814035087  3.6T Linux filesystem
